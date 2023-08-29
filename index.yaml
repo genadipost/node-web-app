@@ -3,7 +3,17 @@ entries:
   node-web-app:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-08-22T13:20:47.603599+03:00"
+    created: "2023-08-29T10:45:13.417051+03:00"
+    description: A Helm chart for Kubernetes
+    digest: b92822044542000bbddaf437005e543958ec232fd513fd71cf0342d6cc571f18
+    name: node-web-app
+    type: application
+    urls:
+    - node-web-app-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-08-29T10:45:13.416403+03:00"
     description: A Helm chart for Kubernetes
     digest: a8409719e001baf1a5df46ecfca938011d13e93ad5eb1b7286c1f5e2f03401b1
     name: node-web-app
@@ -11,4 +21,4 @@ entries:
     urls:
     - node-web-app-0.1.0.tgz
     version: 0.1.0
-generated: "2023-08-22T13:20:47.603125+03:00"
+generated: "2023-08-29T10:45:13.415576+03:00"
